@@ -3,6 +3,7 @@
   Description: Implementation of simple ProgressBar inspired by new Edge installation progress bar.
   Author: kcimit
   -->
+  
 #EdgeProgressBar.WPF
 
 Implementation of simple ProgressBar inspired by new Edge installation progress bar.
