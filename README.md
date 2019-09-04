@@ -6,7 +6,7 @@
   
 <head>
   <meta name="google-site-verification" content="StNfrvBdkDGSPNLQyJsz9hk_CXAtYrJ6xXVrKCQnWGY" />
-  # EdgeProgressBar.WPF
+  EdgeProgressBar.WPF
 </head>
 
 Implementation of simple ProgressBar inspired by new Edge installation progress bar.
